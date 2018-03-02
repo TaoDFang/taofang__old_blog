@@ -1,21 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why do I start to  use blog?"
 date:   2018-03-02 09:49:47 +0100
-categories: jekyll update
+categories: blogs academic
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Why do I start to use blogs from now? Acturally, I do this for several practical reasons
 
-Jekyll also offers powerful support for code snippets:
+1. As I am not a native English speaker, writing blogs in English can help me to improve my skills in English writing. This should be a little tough for me at the beginning, but I belive challenging oneself is a good way to gain new abilities. 
+
+2. Academic or technique blogs can help me to note down some knowleges that I have learnt but may forget in the future. As a programer not restricted to just one programing languages , it is often the case for me to forget even the basic grammars. But if I wrote all important stuff down, then I can save tons of time when picking it up again in the future as avoiding serching good tutorials.
+
+3. What is the core abilities for young people especially these who have not found their true interests or can not concentrate on one thing but is on the move for struggling. I am not able to list all the important abilities as I am perplexed too. But at least onething I could point out is the ability to selling  your story. This is the way our human  selling ourselves and finding people like mind. When you write a blog, you need to think carefully how to construt the whole article to make it more readable under a good skelton so people gonna like it. This, I think, is a perfect way to practive communication and presentation skills.   
+
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+What is the difference between a snowman and a snowwoman?
+-
+Snowballs.
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
