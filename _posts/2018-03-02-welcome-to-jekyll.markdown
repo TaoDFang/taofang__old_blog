@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: tao_post
 title:  "Why do I start to  use blog?"
 date:   2018-03-02 09:49:47 +0100
 categories: blogs academic
+author: "Tao Fang"
 ---
 
 Why do I start to use blogs from now? Acturally, I do this for several practical reasons
@@ -20,8 +21,3 @@ What is the difference between a snowman and a snowwoman?
 Snowballs.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
