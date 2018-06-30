@@ -1,0 +1,12 @@
+---
+layout: "post"
+title: "LSTM"
+categories: blogs academic
+author: "Tao Fang"
+---
+
+The link to a useful tutorial post: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+![RNN structure]({{ http://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-SimpleRNN.png }})
+
+![LSTM structure]({{http://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png }})
